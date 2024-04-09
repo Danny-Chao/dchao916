@@ -1,4 +1,4 @@
-<h1>Hi, I'm Danny! <a href="www.linkedin.com/in/danny-chao-9815ab262">Cybersecurity Professional</a>
+<h1>Hello! My name is Danny Chao! I am a <a href="www.linkedin.com/in/danny-chao-9815ab262">Cybersecurity Professional.</a>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Cyber Security: Cyber Attacks (The Group 1)</b>
