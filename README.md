@@ -27,10 +27,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DannyChao | LinkedIn" width="22px" src="https://www.linkedin.com/in/danny-chao-9815ab262" />][linkedin]
-[<img align="left" alt="DannyChao | YouTube" width="22px" src="https://www.youtube.com/channel/UCexeHmPeCq7rV38XBGh_kog" />][youtube]
-[<img align="left" alt="DannyChao | Twitter" width="22px" src="https://twitter.com/mi3nsta916" />][twitter]
-[<img align="left" alt="DannyChao | Instagram" width="22px" src="https://www.instagram.com/d.chao.realtor/?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" />][instagram]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/danny-chao-9815ab262
 [youtube]: https://www.youtube.com/channel/UCexeHmPeCq7rV38XBGh_kog
